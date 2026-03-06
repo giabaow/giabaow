@@ -13,38 +13,37 @@ Curious and analytical problem-solver passionate about **data engineering and AI
 
 ## Skills
 
-### **Programming**
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Data Engineering & Databases**
-![PySpark](https://img.shields.io/badge/-PySpark-333?style=for-the-badge&logo=apache-spark&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-333?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-333?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ETL](https://img.shields.io/badge/-ETL-333?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABH0lEQVQ4T63Tz0tEURzH8c/ABw8oFgiEwbOBoKBQh0cAFZV3cXEgk3cQuYqCDHhi1gxD1I5GHIRpCCzVsmZMbHsX7H7s/3+3UQya9FSSHTKaHBRJvD+KTxm9ID6rrN0aHGj6J7Mb0N9iIhhZQ36Jj9i8N/X+dsgdwpCwZLEHxi8I8AnMB6RROZr0I7jPCw+IwtkD2MuwN5ApJkGmJXeL7l5BrgZn0TXYOQH/HzqKZHf0C9AK9pK5a+gZXp1AiLNSgW5fV0OIvBD97TVi1+o+wej8brO0jUfgdj6bY5W9fyyjIB3ABy9B3pDZh4LgEonAAAAAElFTkSuQmCC)
+![PySpark](https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-339933?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-F58025?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-F1C40F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==)
 
-### **Machine Learning/AI**
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy&logoColor=white)
+### **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **MLOps**
-![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-333?style=for-the-badge&logo=git&logoColor=white)
+### **MLOps & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **Visualization & Monitoring**
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=for-the-badge&logo=seaborn&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-333?style=for-the-badge&logo=power-bi&logoColor=white)
-![Dashboards](https://img.shields.io/badge/-Dashboards-333?style=for-the-badge&logo=tableau&logoColor=white)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Dashboards](https://img.shields.io/badge/Dashboards-008080?style=for-the-badge&logo=tableau&logoColor=white)
 ---
 
 ## Projects
