@@ -2,7 +2,7 @@
 
 📍 Budapest, Hungary  
 ✉️ nhgbao.contact@gmail.com | 📞 (+36) 705791322  
-[GitHub](https://github.com/giabaow) | [Portfolio](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/nhgbao)  
+[GitHub](https://github.com/giabaow) | [LinkedIn](https://linkedin.com/in/nhgbao)  
 
 ---
 
