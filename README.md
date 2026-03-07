@@ -54,9 +54,9 @@ Curious and analytical problem-solver passionate about **data engineering and AI
 - Automated collection and storage with **AWS Lambda and S3**.
 
 ### MLOps Project | Pulse Predictor Automator  
-*2025* | **Tools:** Python, scikit-learn, XGBoost, LightGBM, Gradio, GitHub Actions, Docker  
+*2025* | **Tools:** Python, scikit-learn, XGBoost, LightGBM, Gradio, GitHub Actions.
 - Built **end-to-end ML pipelines** for preprocessing, training, evaluation, and deployment.  
-- Developed **CICD workflow** with GitHub Actions and Docker.  
+- Developed **CICD workflow** with GitHub Actions. 
 - Deployed interactive **Gradio app** for real-time predictions.
 
 ### Achievement | WiDS Datathon – Budapest  
