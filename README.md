@@ -1,4 +1,4 @@
-# Nguyen Hong Gia Bao
+# Bao Nguyen
 
 📍 Budapest, Hungary  
 ✉️ nhgbao.contact@gmail.com | 📞 (+36) 705791322  
