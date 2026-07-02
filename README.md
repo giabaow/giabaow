@@ -44,23 +44,3 @@ Curious and analytical problem-solver passionate about **data engineering and AI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Dashboards](https://img.shields.io/badge/Dashboards-008080?style=for-the-badge&logo=tableau&logoColor=white)
 ---
-
-## Projects
-
-### Data Engineering Project | US Flight Traffic & Weather Analysis  
-*2025* | **Tools:** Python, PySpark, AWS S3, Glue, Lambda, Athena  
-- Built **ETL pipelines** combining flight traffic and weather data for 5 airports.  
-- Processed datasets using **PySpark and Glue** for query-ready analysis.  
-- Automated collection and storage with **AWS Lambda and S3**.
-
-### MLOps Project | Pulse Predictor Automator  
-*2025* | **Tools:** Python, scikit-learn, XGBoost, LightGBM, Gradio, GitHub Actions.
-- Built **end-to-end ML pipelines** for preprocessing, training, evaluation, and deployment.  
-- Developed **CICD workflow** with GitHub Actions. 
-- Deployed interactive **Gradio app** for real-time predictions.
-
-### Achievement | WiDS Datathon – Budapest  
-*2025* | **Tools:** Python, Scikit-learn, Pandas, NumPy, PyTorch  
-- Built **modular, reusable data pipelines** for neuroscience datasets.  
-- Implemented **predictive and anomaly detection workflows**.  
-- Optimized model selection with **cross-validation and robust metrics**.
