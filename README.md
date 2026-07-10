@@ -1,46 +1,32 @@
 # Bao Nguyen
 
-📍 Budapest, Hungary  
-✉️ nhgbao.contact@gmail.com | 📞 (+36) 705791322  
-[GitHub](https://github.com/giabaow) | [LinkedIn](https://linkedin.com/in/nhgbao)  
+📍 Budapest, Hungary
+✉️ nhgbao.contact@gmail.com | 📞 (+36) 70 579 1322
+[LinkedIn](https://linkedin.com/in/nhgbao)
 
 ---
 
 ## About Me
-Curious and analytical problem-solver passionate about **data engineering and AI/ML**. I enjoy building **end-to-end pipelines**, automating workflows, and transforming datasets into **actionable insights** for informed decision-making.
+
+Curious and analytical problem-solver with a passion for data engineering and AI/ML. I enjoy building end-to-end data pipelines, automating workflows, and turning raw data into actionable insights that support informed decision-making.
 
 ---
 
 ## Skills
 
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C8C?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Programming & Scripting**
+Python · SQL · C#
 
-### **Data Engineering & Databases**
-![PySpark](https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-339933?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-F58025?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-F1C40F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGBgAAAABAABJzQnCgAAAABJRU5ErkJggg==)
+**Data Engineering & Databases**
+PySpark · MySQL · NoSQL (MongoDB) · Databricks · AWS · ETL Pipelines
 
-### **Machine Learning & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Machine Learning & AI**
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
 
-### **MLOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-F05032?style=for-the-badge&logo=git&logoColor=white)
+**MLOps**
+Docker · GitHub Actions · CI/CD
 
-### **Visualization & Monitoring**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Dashboards](https://img.shields.io/badge/Dashboards-008080?style=for-the-badge&logo=tableau&logoColor=white)
+**Visualization & Monitoring**
+Matplotlib · Seaborn · Power BI · Dashboarding
+
 ---
