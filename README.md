@@ -1,32 +1,44 @@
 # Bao Nguyen
-
 📍 Budapest, Hungary
 ✉️ nhgbao.contact@gmail.com | 📞 (+36) 70 579 1322
-[LinkedIn](https://linkedin.com/in/nhgbao)
+[LinkedIn](https://linkedin.com/in/nhgbao) · [GitHub](https://github.com/giabaow)
 
 ---
 
 ## About Me
-
-Curious and analytical problem-solver with a passion for data engineering and AI/ML. I enjoy building end-to-end data pipelines, automating workflows, and turning raw data into actionable insights that support informed decision-making.
+Junior full-stack developer who cares more about *why* a system is built a certain way than about shipping the first thing that works. I build with React, TypeScript, and Postgres-backed APIs, and use AI tools like Claude and Copilot to move fast — but I always read, question, and rewrite what they produce before it ships. Currently completing a BSc in Data Science at Corvinus University of Budapest.
 
 ---
 
 ## Skills
 
-**Programming & Scripting**
-Python · SQL · C#
+**Frontend**
+React · TypeScript · Redux Toolkit · Tailwind CSS · Vite
 
-**Data Engineering & Databases**
-PySpark · MySQL · NoSQL (MongoDB) · Databricks · AWS · ETL Pipelines
+**Backend & APIs**
+FastAPI · Django REST Framework · REST API design
 
-**Machine Learning & AI**
-PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy
+**Databases**
+PostgreSQL · SQL · Schema Design · Migrations
 
-**MLOps**
-Docker · GitHub Actions · CI/CD
+**Auth & Security**
+JWT Authentication · Role-Based Access Control (RBAC)
 
-**Visualization & Monitoring**
-Matplotlib · Seaborn · Power BI · Dashboarding
+**AI Tools**
+Claude · GitHub Copilot · Cursor — used daily, always reviewed line-by-line before merging
+
+**DevOps**
+Docker · Docker Compose · GitHub Actions (CI/CD) · Git
+
+**Testing**
+Pytest · Unit & Integration Testing
 
 ---
+
+## Featured Projects
+
+**[FlightDeck](https://github.com/giabaow/aeroops-ai)** — an airline operations platform that combines live flight-tracking and weather data with AI agents to flag safety risks and delay factors before they cause disruptions. Modeled as a graph of connected agents instead of one script, with safety findings kept structurally separate from delay scores so a real safety issue can never get averaged out by good numbers.
+
+**[QuoteFlow](https://github.com/giabaow/quoteforge-manufacturing-platform)** — a manufacturing quote-and-order platform where staff create quotes, track them through production, and get instant rule-based price estimates. Enforces order status as a fixed sequence in code, not just the UI, so a status can't skip a step or move backward by mistake.
+
+**[SprintDesk](https://github.com/giabaow/sprintdesk)** — a ticket-management API built with a layered architecture (router → service → repository), version-controlled schema migrations, and Pytest integration tests.
