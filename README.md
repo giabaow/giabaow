@@ -37,7 +37,7 @@ Pytest · Unit & Integration Testing
 
 ## Featured Projects
 
-**[FlightDeck](https://github.com/giabaow/aeroops-ai)** — an airline operations platform that combines live flight-tracking and weather data with AI agents to flag safety risks and delay factors before they cause disruptions. Modeled as a graph of connected agents instead of one script, with safety findings kept structurally separate from delay scores so a real safety issue can never get averaged out by good numbers.
+**[AeroOps](https://github.com/giabaow/aeroops-ai)** — an airline operations platform that combines live flight-tracking and weather data with AI agents to flag safety risks and delay factors before they cause disruptions. Modeled as a graph of connected agents instead of one script, with safety findings kept structurally separate from delay scores so a real safety issue can never get averaged out by good numbers.
 
 **[QuoteFlow](https://github.com/giabaow/quoteforge-manufacturing-platform)** — a manufacturing quote-and-order platform where staff create quotes, track them through production, and get instant rule-based price estimates. Enforces order status as a fixed sequence in code, not just the UI, so a status can't skip a step or move backward by mistake.
 
